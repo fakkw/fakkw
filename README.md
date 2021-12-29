@@ -1,5 +1,5 @@
 ## Hey 👋, This is Fata
-[![Github Badge](https://img.shields.io/badge/-fakkw-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fakkw/)](https://www.github.com/fakkw/) <p align='left'>Hii, i'am noob</p>
+[![Github Badge](https://img.shields.io/badge/-fakkw-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fakkw/)](https://www.github.com/fakkw/) <p align='left'>Hii, i'am Fata</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fakkw alt=fakkw /> </p>
 
